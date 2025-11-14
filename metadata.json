@@ -1,0 +1,5 @@
+{
+  "name": "Bilingual Digital Cafe Menu",
+  "description": "A digital, bilingual (English/Persian) menu for cafes with a complete admin panel for managing categories and items. Customers can browse the menu, and administrators can perform full CRUD operations on the menu content.",
+  "requestFramePermissions": []
+}
